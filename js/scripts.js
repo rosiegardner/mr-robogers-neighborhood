@@ -17,3 +17,12 @@
   return roboOutput;
 }
 
+$(document).ready(function) {
+  $("form#robo-Rogers").submit(function(event) {
+    event.preventDefault();
+    const roboInput = $("#text-passage").val();
+    const roboOutput = roboBeepBoop(roboInput);
+    $("#roboger-Output").html(roboOutput);
+    // $("#roboOutput-hidden").slideToggle(roboOutput);
+  });
+};

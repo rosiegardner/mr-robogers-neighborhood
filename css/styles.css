@@ -17,3 +17,7 @@ body {
   font-size: 18px;
   color: black;
 }
+
+#roboOutput-hidden{
+  display: none;
+}
