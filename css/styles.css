@@ -18,3 +18,21 @@ body {
   color: black;
 }
 
+.h2-rogers {
+  border: 2px solid rgb(240, 9, 9);
+  padding: 15px;
+  background-color: rgb(201, 243, 13);
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30;
+  width: 40%;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Luminari";
+  font-size: 15px;
+  color: black;
+}
+
+#roboOutput-hidden {
+  display: none;
+}
