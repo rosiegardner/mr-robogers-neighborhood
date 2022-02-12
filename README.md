@@ -12,6 +12,7 @@
 
 ## Setup/Installation Requirements
 
+* https://rosiegardner.github.io/mr-robogers-neighborhood/
 * Clone or download this repositiory onto your desktop
 * Navigate to the top-level of directory
 * Open index.html in the browser of you choice
